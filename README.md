@@ -5,6 +5,4 @@ Project Progress: In-progress
 
 Data Source: N/A
 
-Future Improvements:
-
-N/A
+Future Improvements: N/A
